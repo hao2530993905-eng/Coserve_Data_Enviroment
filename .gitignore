@@ -1,0 +1,8 @@
+.venv*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+runs/
+.smoke/
+/examples/workspace/answer.txt

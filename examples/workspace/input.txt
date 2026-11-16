@@ -1,0 +1,2 @@
+CoServe rollout smoke test input.
+The agent should read this file with its own tools.
